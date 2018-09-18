@@ -9,7 +9,7 @@ The "code" obviously requires Scratch, so preview at:
 
 [LED Football on MIT Scratch site](https://scratch.mit.edu/projects/151792911)
 
-Or download Scratch and get the project file from the repo here.
+Or download Scratch and get the project file from this repository.
 
 # Notes
 Originally written using Scratch 2.0, but tested and works in the Scratch 3.0 beta.
