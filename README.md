@@ -12,7 +12,7 @@ The "code" obviously requires Scratch, so preview at:
 Or download Scratch and get the project file from this repository.
 
 # Notes
-Originally written using Scratch 2.0, but tested and works in the Scratch 3.0 beta.
+Originally written using Scratch 2.0, is not working fully in Scratch 3.0 beta.
 
 Scratch 3.0 is scheduled for release in 2019, and is written in HTML5 -- no more Flash!
 See details at the [Scratch wiki](https://en.scratch-wiki.info/wiki/Scratch_3.0)
