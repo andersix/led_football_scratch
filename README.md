@@ -2,7 +2,7 @@
 LED football written in MIT's scratch
 
 # Motivation
-My son learned Scratch in middle-school, and at the time I decided I needed to learn about how Scratch worked. That journey caused me to create this, a "remake" of the classic hand-held LED football game. It's a 100% clone, as I added a few twists while "writting" it.
+My son learned Scratch in middle-school, and at the time I decided I needed to learn about how Scratch worked. That journey caused me to create this, a "remake" of the classic hand-held LED football game. It's not a 100% clone, as I added a few twists while "writting" it.
 
 # Code
 The "code" obviously requires Scratch, so preview at:
